@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4678-DC6A
+
+ Directory of C:\Users\pravedsh\Desktop\My Devopps Project
+
+08/09/2017  06:38 AM    <DIR>          .
+08/09/2017  06:38 AM    <DIR>          ..
+08/09/2017  06:38 AM                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   4,549,718,016 bytes free
